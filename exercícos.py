@@ -16,4 +16,4 @@ nascimento = ano_anual - anos
 peso = 66
 imc= peso / (altura**2)
 
-print(f'meu nome é {nome}, tenho {anos} anos, nasci em { nascimento}, tenho {peso} e possuo um imc de {imc:.2f} ')
+print(f'meu nome é {nome}, tenho {anos} anos, nasci em { nascimento}, tenho {peso} peso e possuo um imc de {imc:.2f} ')
